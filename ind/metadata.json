@@ -1,958 +1,1075 @@
 {
-  "resource_metadata": {
-    "aquifer_type": "Bible",
-    "resource_type": "Bible",
-    "title": "Gateway Simplified Text (Indonesian)",
-    "aquifer_name": "Gateway Simplified Text (Indonesian)",
-    "version": "1.0.2",
-    "collection_title": "Gateway Simplified Text (Indonesian)",
-    "short_name": "ID_GST",
-    "license_info": {
-      "title": "Gateway Simplified Text (Indonesian)",
-      "copyright": {
-        "dates": "2023",
-        "holder": {
-          "name": "unfoldingWord",
-          "url": "https://unfoldingword.org/"
-        }
-      },
-      "licenses": [
-        {
-          "eng": {
-            "name": "CC BY-SA 4.0 license",
-            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-          }
-        }
-      ],
-      "showAdaptationNoticeForEnglish": false,
-      "showAdaptationNoticeForNonEnglish": false
-    },
-    "adaptation_notice": "",
-    "resource_code": "GatewaySimplifiedTextIndonesian",
-    "date_created": "2025-12-01",
-    "language": "ind",
-    "localizations": [],
-    "order": "canonical",
-    "content_type": "Bible"
-  },
-  "scripture_burrito": {
-    "format": "scripture burrito",
-    "meta": {
-      "version": "1.0.0",
-      "category": "source",
-      "defaultLocale": "en",
-      "dateCreated": "2025-12-01T08:07:17.056462"
-    },
-    "idAuthorities": {
-      "aquifer": {
-        "id": "https://aquifer.bible",
-        "name": {
-          "en": "Bible Aquifer"
-        }
-      }
-    },
-    "identification": {
-      "primary": {
-        "aquifer": {
-          "GatewaySimplifiedTextIndonesian": {
-            "timestamp": "2025-12-01T08:07:17.056462"
-          }
-        }
-      },
-      "name": {
-        "id": "Gateway Simplified Text (Indonesian)"
-      },
-      "abbreviation": {
-        "id": "ID_GST"
-      }
-    },
-    "languages": [
-      {
-        "tag": "id",
-        "name": {
-          "id": "Indonesian"
-        }
-      }
-    ],
-    "type": {
-      "flavorType": {
-        "name": "scripture",
-        "flavor": {
-          "name": "textTranslation",
-          "audience": "common"
-        },
-        "currentScope": {
-          "COL": [],
-          "1TH": [],
-          "2TH": [],
-          "1TI": [],
-          "2TI": [],
-          "TIT": [],
-          "PHM": [],
-          "2PE": [],
-          "3JN": []
-        }
-      }
-    },
-    "ingredients": {
-      "json/51.content.json": {
-        "mimeType": "text/json",
-        "size": 55500,
-        "scope": {
-          "COL": [
-            "Colossians 1:1",
-            "Colossians 1:2",
-            "Colossians 1:3",
-            "Colossians 1:4",
-            "Colossians 1:5",
-            "Colossians 1:6",
-            "Colossians 1:7",
-            "Colossians 1:8",
-            "Colossians 1:9",
-            "Colossians 1:10",
-            "Colossians 1:11",
-            "Colossians 1:12",
-            "Colossians 1:13",
-            "Colossians 1:14",
-            "Colossians 1:15",
-            "Colossians 1:16",
-            "Colossians 1:17",
-            "Colossians 1:18",
-            "Colossians 1:19",
-            "Colossians 1:20",
-            "Colossians 1:21",
-            "Colossians 1:22",
-            "Colossians 1:23",
-            "Colossians 1:24",
-            "Colossians 1:25",
-            "Colossians 1:26",
-            "Colossians 1:27",
-            "Colossians 1:28",
-            "Colossians 1:29",
-            "Colossians 2:1",
-            "Colossians 2:2",
-            "Colossians 2:3",
-            "Colossians 2:4",
-            "Colossians 2:5",
-            "Colossians 2:6",
-            "Colossians 2:7",
-            "Colossians 2:8",
-            "Colossians 2:9",
-            "Colossians 2:10",
-            "Colossians 2:11",
-            "Colossians 2:12",
-            "Colossians 2:13",
-            "Colossians 2:14",
-            "Colossians 2:15",
-            "Colossians 2:16",
-            "Colossians 2:17",
-            "Colossians 2:18",
-            "Colossians 2:19",
-            "Colossians 2:20",
-            "Colossians 2:21",
-            "Colossians 2:22",
-            "Colossians 2:23",
-            "Colossians 3:1",
-            "Colossians 3:2",
-            "Colossians 3:3",
-            "Colossians 3:4",
-            "Colossians 3:5",
-            "Colossians 3:6",
-            "Colossians 3:7",
-            "Colossians 3:8",
-            "Colossians 3:9",
-            "Colossians 3:10",
-            "Colossians 3:11",
-            "Colossians 3:12",
-            "Colossians 3:13",
-            "Colossians 3:14",
-            "Colossians 3:15",
-            "Colossians 3:16",
-            "Colossians 3:17",
-            "Colossians 3:18",
-            "Colossians 3:19",
-            "Colossians 3:20",
-            "Colossians 3:21",
-            "Colossians 3:22",
-            "Colossians 3:23",
-            "Colossians 3:24",
-            "Colossians 3:25",
-            "Colossians 4:1",
-            "Colossians 4:2",
-            "Colossians 4:3",
-            "Colossians 4:4",
-            "Colossians 4:5",
-            "Colossians 4:6",
-            "Colossians 4:7",
-            "Colossians 4:8",
-            "Colossians 4:9",
-            "Colossians 4:10",
-            "Colossians 4:11",
-            "Colossians 4:12",
-            "Colossians 4:13",
-            "Colossians 4:14",
-            "Colossians 4:15",
-            "Colossians 4:16",
-            "Colossians 4:17",
-            "Colossians 4:18"
-          ]
-        }
-      },
-      "json/52.content.json": {
-        "mimeType": "text/json",
-        "size": 50644,
-        "scope": {
-          "1TH": [
-            "1 Thessalonians 1:1",
-            "1 Thessalonians 1:2",
-            "1 Thessalonians 1:3",
-            "1 Thessalonians 1:4",
-            "1 Thessalonians 1:5",
-            "1 Thessalonians 1:6",
-            "1 Thessalonians 1:7",
-            "1 Thessalonians 1:8",
-            "1 Thessalonians 1:9",
-            "1 Thessalonians 1:10",
-            "1 Thessalonians 2:1",
-            "1 Thessalonians 2:2",
-            "1 Thessalonians 2:3",
-            "1 Thessalonians 2:4",
-            "1 Thessalonians 2:5",
-            "1 Thessalonians 2:6",
-            "1 Thessalonians 2:7",
-            "1 Thessalonians 2:8",
-            "1 Thessalonians 2:9",
-            "1 Thessalonians 2:10",
-            "1 Thessalonians 2:11",
-            "1 Thessalonians 2:12",
-            "1 Thessalonians 2:13",
-            "1 Thessalonians 2:14",
-            "1 Thessalonians 2:15",
-            "1 Thessalonians 2:16",
-            "1 Thessalonians 2:17",
-            "1 Thessalonians 2:18",
-            "1 Thessalonians 2:19",
-            "1 Thessalonians 2:20",
-            "1 Thessalonians 3:1",
-            "1 Thessalonians 3:2",
-            "1 Thessalonians 3:3",
-            "1 Thessalonians 3:4",
-            "1 Thessalonians 3:5",
-            "1 Thessalonians 3:6",
-            "1 Thessalonians 3:7",
-            "1 Thessalonians 3:8",
-            "1 Thessalonians 3:9",
-            "1 Thessalonians 3:10",
-            "1 Thessalonians 3:11",
-            "1 Thessalonians 3:12",
-            "1 Thessalonians 3:13",
-            "1 Thessalonians 4:1",
-            "1 Thessalonians 4:2",
-            "1 Thessalonians 4:3",
-            "1 Thessalonians 4:4",
-            "1 Thessalonians 4:5",
-            "1 Thessalonians 4:6",
-            "1 Thessalonians 4:7",
-            "1 Thessalonians 4:8",
-            "1 Thessalonians 4:9",
-            "1 Thessalonians 4:10",
-            "1 Thessalonians 4:11",
-            "1 Thessalonians 4:12",
-            "1 Thessalonians 4:13",
-            "1 Thessalonians 4:14",
-            "1 Thessalonians 4:15",
-            "1 Thessalonians 4:16",
-            "1 Thessalonians 4:17",
-            "1 Thessalonians 4:18",
-            "1 Thessalonians 5:1",
-            "1 Thessalonians 5:2",
-            "1 Thessalonians 5:3",
-            "1 Thessalonians 5:4",
-            "1 Thessalonians 5:5",
-            "1 Thessalonians 5:6",
-            "1 Thessalonians 5:7",
-            "1 Thessalonians 5:8",
-            "1 Thessalonians 5:9",
-            "1 Thessalonians 5:10",
-            "1 Thessalonians 5:11",
-            "1 Thessalonians 5:12",
-            "1 Thessalonians 5:13",
-            "1 Thessalonians 5:14",
-            "1 Thessalonians 5:15",
-            "1 Thessalonians 5:16",
-            "1 Thessalonians 5:17",
-            "1 Thessalonians 5:18",
-            "1 Thessalonians 5:19",
-            "1 Thessalonians 5:20",
-            "1 Thessalonians 5:21",
-            "1 Thessalonians 5:22",
-            "1 Thessalonians 5:23",
-            "1 Thessalonians 5:24",
-            "1 Thessalonians 5:25",
-            "1 Thessalonians 5:26",
-            "1 Thessalonians 5:27",
-            "1 Thessalonians 5:28"
-          ]
-        }
-      },
-      "json/53.content.json": {
-        "mimeType": "text/json",
-        "size": 26381,
-        "scope": {
-          "2TH": [
-            "2 Thessalonians 1:1",
-            "2 Thessalonians 1:2",
-            "2 Thessalonians 1:3",
-            "2 Thessalonians 1:4",
-            "2 Thessalonians 1:5",
-            "2 Thessalonians 1:6",
-            "2 Thessalonians 1:7",
-            "2 Thessalonians 1:8",
-            "2 Thessalonians 1:9",
-            "2 Thessalonians 1:10",
-            "2 Thessalonians 1:11",
-            "2 Thessalonians 1:12",
-            "2 Thessalonians 2:1",
-            "2 Thessalonians 2:2",
-            "2 Thessalonians 2:3",
-            "2 Thessalonians 2:4",
-            "2 Thessalonians 2:5",
-            "2 Thessalonians 2:6",
-            "2 Thessalonians 2:7",
-            "2 Thessalonians 2:8",
-            "2 Thessalonians 2:9",
-            "2 Thessalonians 2:10",
-            "2 Thessalonians 2:11",
-            "2 Thessalonians 2:12",
-            "2 Thessalonians 2:13",
-            "2 Thessalonians 2:14",
-            "2 Thessalonians 2:15",
-            "2 Thessalonians 2:16",
-            "2 Thessalonians 3:1",
-            "2 Thessalonians 3:2",
-            "2 Thessalonians 3:3",
-            "2 Thessalonians 3:4",
-            "2 Thessalonians 3:5",
-            "2 Thessalonians 3:6",
-            "2 Thessalonians 3:7",
-            "2 Thessalonians 3:8",
-            "2 Thessalonians 3:9",
-            "2 Thessalonians 3:10",
-            "2 Thessalonians 3:11",
-            "2 Thessalonians 3:12",
-            "2 Thessalonians 3:13",
-            "2 Thessalonians 3:14",
-            "2 Thessalonians 3:15",
-            "2 Thessalonians 3:16",
-            "2 Thessalonians 3:17",
-            "2 Thessalonians 3:18"
-          ]
-        }
-      },
-      "json/54.content.json": {
-        "mimeType": "text/json",
-        "size": 62501,
-        "scope": {
-          "1TI": [
-            "1 Timothy 1:1",
-            "1 Timothy 1:2",
-            "1 Timothy 1:3",
-            "1 Timothy 1:4",
-            "1 Timothy 1:5",
-            "1 Timothy 1:6",
-            "1 Timothy 1:7",
-            "1 Timothy 1:8",
-            "1 Timothy 1:9",
-            "1 Timothy 1:10",
-            "1 Timothy 1:11",
-            "1 Timothy 1:12",
-            "1 Timothy 1:13",
-            "1 Timothy 1:14",
-            "1 Timothy 1:15",
-            "1 Timothy 1:16",
-            "1 Timothy 1:17",
-            "1 Timothy 1:18",
-            "1 Timothy 1:19",
-            "1 Timothy 1:20",
-            "1 Timothy 2:1",
-            "1 Timothy 2:2",
-            "1 Timothy 2:3",
-            "1 Timothy 2:4",
-            "1 Timothy 2:5",
-            "1 Timothy 2:6",
-            "1 Timothy 2:7",
-            "1 Timothy 2:8",
-            "1 Timothy 2:9",
-            "1 Timothy 2:10",
-            "1 Timothy 2:11",
-            "1 Timothy 2:12",
-            "1 Timothy 2:13",
-            "1 Timothy 2:14",
-            "1 Timothy 2:15",
-            "1 Timothy 3:1",
-            "1 Timothy 3:2",
-            "1 Timothy 3:3",
-            "1 Timothy 3:4",
-            "1 Timothy 3:5",
-            "1 Timothy 3:6",
-            "1 Timothy 3:7",
-            "1 Timothy 3:8",
-            "1 Timothy 3:9",
-            "1 Timothy 3:10",
-            "1 Timothy 3:11",
-            "1 Timothy 3:12",
-            "1 Timothy 3:13",
-            "1 Timothy 3:14",
-            "1 Timothy 3:15",
-            "1 Timothy 3:16",
-            "1 Timothy 4:1",
-            "1 Timothy 4:2",
-            "1 Timothy 4:3",
-            "1 Timothy 4:4",
-            "1 Timothy 4:5",
-            "1 Timothy 4:6",
-            "1 Timothy 4:7",
-            "1 Timothy 4:8",
-            "1 Timothy 4:9",
-            "1 Timothy 4:10",
-            "1 Timothy 4:11",
-            "1 Timothy 4:12",
-            "1 Timothy 4:13",
-            "1 Timothy 4:14",
-            "1 Timothy 4:15",
-            "1 Timothy 4:16",
-            "1 Timothy 5:1",
-            "1 Timothy 5:2",
-            "1 Timothy 5:3",
-            "1 Timothy 5:4",
-            "1 Timothy 5:5",
-            "1 Timothy 5:6",
-            "1 Timothy 5:7",
-            "1 Timothy 5:8",
-            "1 Timothy 5:9",
-            "1 Timothy 5:10",
-            "1 Timothy 5:11",
-            "1 Timothy 5:12",
-            "1 Timothy 5:13",
-            "1 Timothy 5:14",
-            "1 Timothy 5:15",
-            "1 Timothy 5:16",
-            "1 Timothy 5:17",
-            "1 Timothy 5:18",
-            "1 Timothy 5:19",
-            "1 Timothy 5:20",
-            "1 Timothy 5:21",
-            "1 Timothy 5:22",
-            "1 Timothy 5:23",
-            "1 Timothy 5:24",
-            "1 Timothy 5:25",
-            "1 Timothy 6:1",
-            "1 Timothy 6:2",
-            "1 Timothy 6:3",
-            "1 Timothy 6:4",
-            "1 Timothy 6:5",
-            "1 Timothy 6:6",
-            "1 Timothy 6:7",
-            "1 Timothy 6:8",
-            "1 Timothy 6:9",
-            "1 Timothy 6:10",
-            "1 Timothy 6:11",
-            "1 Timothy 6:12",
-            "1 Timothy 6:13",
-            "1 Timothy 6:14",
-            "1 Timothy 6:15",
-            "1 Timothy 6:16",
-            "1 Timothy 6:17",
-            "1 Timothy 6:18",
-            "1 Timothy 6:19",
-            "1 Timothy 6:20",
-            "1 Timothy 6:21"
-          ]
-        }
-      },
-      "json/55.content.json": {
-        "mimeType": "text/json",
-        "size": 46193,
-        "scope": {
-          "2TI": [
-            "2 Timothy 1:1",
-            "2 Timothy 1:2",
-            "2 Timothy 1:3",
-            "2 Timothy 1:4",
-            "2 Timothy 1:5",
-            "2 Timothy 1:6",
-            "2 Timothy 1:7",
-            "2 Timothy 1:8",
-            "2 Timothy 1:9",
-            "2 Timothy 1:10",
-            "2 Timothy 1:11",
-            "2 Timothy 1:12",
-            "2 Timothy 1:13",
-            "2 Timothy 1:14",
-            "2 Timothy 1:15",
-            "2 Timothy 1:16",
-            "2 Timothy 1:17",
-            "2 Timothy 1:18",
-            "2 Timothy 2:1",
-            "2 Timothy 2:2",
-            "2 Timothy 2:3",
-            "2 Timothy 2:4",
-            "2 Timothy 2:5",
-            "2 Timothy 2:6",
-            "2 Timothy 2:7",
-            "2 Timothy 2:8",
-            "2 Timothy 2:9",
-            "2 Timothy 2:10",
-            "2 Timothy 2:11",
-            "2 Timothy 2:12",
-            "2 Timothy 2:13",
-            "2 Timothy 2:14",
-            "2 Timothy 2:15",
-            "2 Timothy 2:16",
-            "2 Timothy 2:17",
-            "2 Timothy 2:18",
-            "2 Timothy 2:19",
-            "2 Timothy 2:20",
-            "2 Timothy 2:21",
-            "2 Timothy 2:22",
-            "2 Timothy 2:23",
-            "2 Timothy 2:24",
-            "2 Timothy 2:25",
-            "2 Timothy 2:26",
-            "2 Timothy 3:1",
-            "2 Timothy 3:2",
-            "2 Timothy 3:3",
-            "2 Timothy 3:4",
-            "2 Timothy 3:5",
-            "2 Timothy 3:6",
-            "2 Timothy 3:7",
-            "2 Timothy 3:8",
-            "2 Timothy 3:9",
-            "2 Timothy 3:10",
-            "2 Timothy 3:11",
-            "2 Timothy 3:12",
-            "2 Timothy 3:13",
-            "2 Timothy 3:14",
-            "2 Timothy 3:15",
-            "2 Timothy 3:16",
-            "2 Timothy 3:17",
-            "2 Timothy 4:1",
-            "2 Timothy 4:2",
-            "2 Timothy 4:3",
-            "2 Timothy 4:4",
-            "2 Timothy 4:5",
-            "2 Timothy 4:6",
-            "2 Timothy 4:7",
-            "2 Timothy 4:8",
-            "2 Timothy 4:9",
-            "2 Timothy 4:10",
-            "2 Timothy 4:11",
-            "2 Timothy 4:12",
-            "2 Timothy 4:13",
-            "2 Timothy 4:14",
-            "2 Timothy 4:15",
-            "2 Timothy 4:16",
-            "2 Timothy 4:17",
-            "2 Timothy 4:18",
-            "2 Timothy 4:19",
-            "2 Timothy 4:20",
-            "2 Timothy 4:21",
-            "2 Timothy 4:22"
-          ]
-        }
-      },
-      "json/56.content.json": {
-        "mimeType": "text/json",
-        "size": 26480,
-        "scope": {
-          "TIT": [
-            "Titus 1:1",
-            "Titus 1:2",
-            "Titus 1:3",
-            "Titus 1:4",
-            "Titus 1:5",
-            "Titus 1:6",
-            "Titus 1:7",
-            "Titus 1:8",
-            "Titus 1:9",
-            "Titus 1:10",
-            "Titus 1:11",
-            "Titus 1:12",
-            "Titus 1:13",
-            "Titus 1:14",
-            "Titus 1:15",
-            "Titus 1:16",
-            "Titus 2:1",
-            "Titus 2:2",
-            "Titus 2:3",
-            "Titus 2:4",
-            "Titus 2:5",
-            "Titus 2:6",
-            "Titus 2:7",
-            "Titus 2:8",
-            "Titus 2:9",
-            "Titus 2:10",
-            "Titus 2:11",
-            "Titus 2:12",
-            "Titus 2:13",
-            "Titus 2:14",
-            "Titus 2:15",
-            "Titus 3:1",
-            "Titus 3:2",
-            "Titus 3:3",
-            "Titus 3:4",
-            "Titus 3:5",
-            "Titus 3:6",
-            "Titus 3:7",
-            "Titus 3:8",
-            "Titus 3:9",
-            "Titus 3:10",
-            "Titus 3:11",
-            "Titus 3:12",
-            "Titus 3:13",
-            "Titus 3:14",
-            "Titus 3:15"
-          ]
-        }
-      },
-      "json/57.content.json": {
-        "mimeType": "text/json",
-        "size": 12742,
-        "scope": {
-          "PHM": [
-            "Philemon 1:1",
-            "Philemon 1:2",
-            "Philemon 1:3",
-            "Philemon 1:4",
-            "Philemon 1:5",
-            "Philemon 1:6",
-            "Philemon 1:7",
-            "Philemon 1:8",
-            "Philemon 1:9",
-            "Philemon 1:10",
-            "Philemon 1:11",
-            "Philemon 1:12",
-            "Philemon 1:13",
-            "Philemon 1:14",
-            "Philemon 1:15",
-            "Philemon 1:16",
-            "Philemon 1:17",
-            "Philemon 1:18",
-            "Philemon 1:19",
-            "Philemon 1:20",
-            "Philemon 1:21",
-            "Philemon 1:22",
-            "Philemon 1:23",
-            "Philemon 1:24",
-            "Philemon 1:25"
-          ]
-        }
-      },
-      "json/61.content.json": {
-        "mimeType": "text/json",
-        "size": 36733,
-        "scope": {
-          "2PE": [
-            "2 Peter 1:1",
-            "2 Peter 1:2",
-            "2 Peter 1:3",
-            "2 Peter 1:4",
-            "2 Peter 1:5",
-            "2 Peter 1:6",
-            "2 Peter 1:7",
-            "2 Peter 1:8",
-            "2 Peter 1:9",
-            "2 Peter 1:10",
-            "2 Peter 1:11",
-            "2 Peter 1:12",
-            "2 Peter 1:13",
-            "2 Peter 1:14",
-            "2 Peter 1:15",
-            "2 Peter 1:16",
-            "2 Peter 1:17",
-            "2 Peter 1:18",
-            "2 Peter 1:19",
-            "2 Peter 1:20",
-            "2 Peter 1:21",
-            "2 Peter 2:1",
-            "2 Peter 2:2",
-            "2 Peter 2:3",
-            "2 Peter 2:4",
-            "2 Peter 2:5",
-            "2 Peter 2:6",
-            "2 Peter 2:7",
-            "2 Peter 2:8",
-            "2 Peter 2:9",
-            "2 Peter 2:10",
-            "2 Peter 2:11",
-            "2 Peter 2:12",
-            "2 Peter 2:13",
-            "2 Peter 2:14",
-            "2 Peter 2:15",
-            "2 Peter 2:16",
-            "2 Peter 2:17",
-            "2 Peter 2:18",
-            "2 Peter 2:19",
-            "2 Peter 2:20",
-            "2 Peter 2:21",
-            "2 Peter 2:22",
-            "2 Peter 3:1",
-            "2 Peter 3:2",
-            "2 Peter 3:3",
-            "2 Peter 3:4",
-            "2 Peter 3:5",
-            "2 Peter 3:6",
-            "2 Peter 3:7",
-            "2 Peter 3:8",
-            "2 Peter 3:9",
-            "2 Peter 3:10",
-            "2 Peter 3:11",
-            "2 Peter 3:12",
-            "2 Peter 3:13",
-            "2 Peter 3:14",
-            "2 Peter 3:15",
-            "2 Peter 3:16",
-            "2 Peter 3:17",
-            "2 Peter 3:18"
-          ]
-        }
-      },
-      "json/64.content.json": {
-        "mimeType": "text/json",
-        "size": 8031,
-        "scope": {
-          "3JN": [
-            "3 John 1:1",
-            "3 John 1:2",
-            "3 John 1:3",
-            "3 John 1:4",
-            "3 John 1:5",
-            "3 John 1:6",
-            "3 John 1:7",
-            "3 John 1:8",
-            "3 John 1:9",
-            "3 John 1:10",
-            "3 John 1:11",
-            "3 John 1:12",
-            "3 John 1:13",
-            "3 John 1:14",
-            "3 John 1:15"
-          ]
-        }
-      },
-      "usx/51COLID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 34369,
-        "scope": {
-          "COL": []
-        }
-      },
-      "usx/521THID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 30516,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "usx/532THID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 16152,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "usx/541TIID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 37489,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "usx/552TIID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 27877,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "usx/56TITID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 16671,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "usx/57PHMID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 7433,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "usx/612PEID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 23464,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "usx/643JNID_GST.usx": {
-        "mimeType": "application/xml",
-        "size": 5004,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "usfm/51COLID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 26411,
-        "scope": {
-          "COL": []
-        }
-      },
-      "usfm/521THID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 22993,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "usfm/532THID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 12159,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "usfm/541TIID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 28001,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "usfm/552TIID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 20879,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "usfm/56TITID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 12678,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "usfm/57PHMID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 5210,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "usfm/612PEID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 18271,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "usfm/643JNID_GST.SFM": {
-        "mimeType": "text/plain",
-        "size": 3581,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 30034
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 26829
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14272
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 32150
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24021
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14408
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6339
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 20585
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4373
-      },
-      "pdf/51.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 183048
-      },
-      "pdf/52.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 178839
-      },
-      "pdf/53.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149234
-      },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 193849
-      },
-      "pdf/55.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 174472
-      },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149882
-      },
-      "pdf/57.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 128692
-      },
-      "pdf/61.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 161479
-      },
-      "pdf/64.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 122397
-      }
-    },
-    "copyright": {
-      "licenses": [
-        {
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-        }
-      ],
-      "shortStatements": [
-        {
-          "statement": "<p>Gateway Simplified Text (Indonesian) © 2023 unfoldingWord",
-          "mimetype": "text/html",
-          "lang": "en"
-        }
-      ]
-    }
-  },
-  "article_metadata": {}
+"resource_metadata": {
+"aquifer_type": "Bible",
+"resource_type": "Bible",
+"title": "Gateway Simplified Text (Indonesian)",
+"aquifer_name": "Gateway Simplified Text (Indonesian)",
+"version": "1.0.2",
+"collection_title": "Gateway Simplified Text (Indonesian)",
+"short_name": "ID_GST",
+"license_info": {
+"title": "Gateway Simplified Text (Indonesian)",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "unfoldingWord",
+"url": "https://unfoldingword.org/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": false
+},
+"adaptation_notice": "",
+"resource_code": "GatewaySimplifiedTextIndonesian",
+"date_created": "2025-12-01",
+"language": "ind",
+"localizations": [],
+"order": "canonical",
+"content_type": "Bible"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2025-12-01T08:07:17.056462"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"GatewaySimplifiedTextIndonesian": {
+"timestamp": "2025-12-01T08:07:17.056462"
+}
+}
+},
+"name": {
+"id": "Gateway Simplified Text (Indonesian)"
+},
+"abbreviation": {
+"id": "ID_GST"
+}
+},
+"languages": [
+{
+"tag": "id",
+"name": {
+"id": "Indonesian"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "scripture",
+"flavor": {
+"name": "textTranslation",
+"audience": "common"
+},
+"currentScope": {
+"COL": [],
+"1TH": [],
+"2TH": [],
+"1TI": [],
+"2TI": [],
+"TIT": [],
+"PHM": [],
+"2PE": [],
+"3JN": []
+}
+}
+},
+"ingredients": {
+"json/51.content.json": {
+"mimeType": "text/json",
+"size": 55500,
+"scope": {
+"COL": [
+"Colossians 1:1",
+"Colossians 1:2",
+"Colossians 1:3",
+"Colossians 1:4",
+"Colossians 1:5",
+"Colossians 1:6",
+"Colossians 1:7",
+"Colossians 1:8",
+"Colossians 1:9",
+"Colossians 1:10",
+"Colossians 1:11",
+"Colossians 1:12",
+"Colossians 1:13",
+"Colossians 1:14",
+"Colossians 1:15",
+"Colossians 1:16",
+"Colossians 1:17",
+"Colossians 1:18",
+"Colossians 1:19",
+"Colossians 1:20",
+"Colossians 1:21",
+"Colossians 1:22",
+"Colossians 1:23",
+"Colossians 1:24",
+"Colossians 1:25",
+"Colossians 1:26",
+"Colossians 1:27",
+"Colossians 1:28",
+"Colossians 1:29",
+"Colossians 2:1",
+"Colossians 2:2",
+"Colossians 2:3",
+"Colossians 2:4",
+"Colossians 2:5",
+"Colossians 2:6",
+"Colossians 2:7",
+"Colossians 2:8",
+"Colossians 2:9",
+"Colossians 2:10",
+"Colossians 2:11",
+"Colossians 2:12",
+"Colossians 2:13",
+"Colossians 2:14",
+"Colossians 2:15",
+"Colossians 2:16",
+"Colossians 2:17",
+"Colossians 2:18",
+"Colossians 2:19",
+"Colossians 2:20",
+"Colossians 2:21",
+"Colossians 2:22",
+"Colossians 2:23",
+"Colossians 3:1",
+"Colossians 3:2",
+"Colossians 3:3",
+"Colossians 3:4",
+"Colossians 3:5",
+"Colossians 3:6",
+"Colossians 3:7",
+"Colossians 3:8",
+"Colossians 3:9",
+"Colossians 3:10",
+"Colossians 3:11",
+"Colossians 3:12",
+"Colossians 3:13",
+"Colossians 3:14",
+"Colossians 3:15",
+"Colossians 3:16",
+"Colossians 3:17",
+"Colossians 3:18",
+"Colossians 3:19",
+"Colossians 3:20",
+"Colossians 3:21",
+"Colossians 3:22",
+"Colossians 3:23",
+"Colossians 3:24",
+"Colossians 3:25",
+"Colossians 4:1",
+"Colossians 4:2",
+"Colossians 4:3",
+"Colossians 4:4",
+"Colossians 4:5",
+"Colossians 4:6",
+"Colossians 4:7",
+"Colossians 4:8",
+"Colossians 4:9",
+"Colossians 4:10",
+"Colossians 4:11",
+"Colossians 4:12",
+"Colossians 4:13",
+"Colossians 4:14",
+"Colossians 4:15",
+"Colossians 4:16",
+"Colossians 4:17",
+"Colossians 4:18"
+]
+}
+},
+"json/52.content.json": {
+"mimeType": "text/json",
+"size": 50644,
+"scope": {
+"1TH": [
+"1 Thessalonians 1:1",
+"1 Thessalonians 1:2",
+"1 Thessalonians 1:3",
+"1 Thessalonians 1:4",
+"1 Thessalonians 1:5",
+"1 Thessalonians 1:6",
+"1 Thessalonians 1:7",
+"1 Thessalonians 1:8",
+"1 Thessalonians 1:9",
+"1 Thessalonians 1:10",
+"1 Thessalonians 2:1",
+"1 Thessalonians 2:2",
+"1 Thessalonians 2:3",
+"1 Thessalonians 2:4",
+"1 Thessalonians 2:5",
+"1 Thessalonians 2:6",
+"1 Thessalonians 2:7",
+"1 Thessalonians 2:8",
+"1 Thessalonians 2:9",
+"1 Thessalonians 2:10",
+"1 Thessalonians 2:11",
+"1 Thessalonians 2:12",
+"1 Thessalonians 2:13",
+"1 Thessalonians 2:14",
+"1 Thessalonians 2:15",
+"1 Thessalonians 2:16",
+"1 Thessalonians 2:17",
+"1 Thessalonians 2:18",
+"1 Thessalonians 2:19",
+"1 Thessalonians 2:20",
+"1 Thessalonians 3:1",
+"1 Thessalonians 3:2",
+"1 Thessalonians 3:3",
+"1 Thessalonians 3:4",
+"1 Thessalonians 3:5",
+"1 Thessalonians 3:6",
+"1 Thessalonians 3:7",
+"1 Thessalonians 3:8",
+"1 Thessalonians 3:9",
+"1 Thessalonians 3:10",
+"1 Thessalonians 3:11",
+"1 Thessalonians 3:12",
+"1 Thessalonians 3:13",
+"1 Thessalonians 4:1",
+"1 Thessalonians 4:2",
+"1 Thessalonians 4:3",
+"1 Thessalonians 4:4",
+"1 Thessalonians 4:5",
+"1 Thessalonians 4:6",
+"1 Thessalonians 4:7",
+"1 Thessalonians 4:8",
+"1 Thessalonians 4:9",
+"1 Thessalonians 4:10",
+"1 Thessalonians 4:11",
+"1 Thessalonians 4:12",
+"1 Thessalonians 4:13",
+"1 Thessalonians 4:14",
+"1 Thessalonians 4:15",
+"1 Thessalonians 4:16",
+"1 Thessalonians 4:17",
+"1 Thessalonians 4:18",
+"1 Thessalonians 5:1",
+"1 Thessalonians 5:2",
+"1 Thessalonians 5:3",
+"1 Thessalonians 5:4",
+"1 Thessalonians 5:5",
+"1 Thessalonians 5:6",
+"1 Thessalonians 5:7",
+"1 Thessalonians 5:8",
+"1 Thessalonians 5:9",
+"1 Thessalonians 5:10",
+"1 Thessalonians 5:11",
+"1 Thessalonians 5:12",
+"1 Thessalonians 5:13",
+"1 Thessalonians 5:14",
+"1 Thessalonians 5:15",
+"1 Thessalonians 5:16",
+"1 Thessalonians 5:17",
+"1 Thessalonians 5:18",
+"1 Thessalonians 5:19",
+"1 Thessalonians 5:20",
+"1 Thessalonians 5:21",
+"1 Thessalonians 5:22",
+"1 Thessalonians 5:23",
+"1 Thessalonians 5:24",
+"1 Thessalonians 5:25",
+"1 Thessalonians 5:26",
+"1 Thessalonians 5:27",
+"1 Thessalonians 5:28"
+]
+}
+},
+"json/53.content.json": {
+"mimeType": "text/json",
+"size": 26381,
+"scope": {
+"2TH": [
+"2 Thessalonians 1:1",
+"2 Thessalonians 1:2",
+"2 Thessalonians 1:3",
+"2 Thessalonians 1:4",
+"2 Thessalonians 1:5",
+"2 Thessalonians 1:6",
+"2 Thessalonians 1:7",
+"2 Thessalonians 1:8",
+"2 Thessalonians 1:9",
+"2 Thessalonians 1:10",
+"2 Thessalonians 1:11",
+"2 Thessalonians 1:12",
+"2 Thessalonians 2:1",
+"2 Thessalonians 2:2",
+"2 Thessalonians 2:3",
+"2 Thessalonians 2:4",
+"2 Thessalonians 2:5",
+"2 Thessalonians 2:6",
+"2 Thessalonians 2:7",
+"2 Thessalonians 2:8",
+"2 Thessalonians 2:9",
+"2 Thessalonians 2:10",
+"2 Thessalonians 2:11",
+"2 Thessalonians 2:12",
+"2 Thessalonians 2:13",
+"2 Thessalonians 2:14",
+"2 Thessalonians 2:15",
+"2 Thessalonians 2:16",
+"2 Thessalonians 3:1",
+"2 Thessalonians 3:2",
+"2 Thessalonians 3:3",
+"2 Thessalonians 3:4",
+"2 Thessalonians 3:5",
+"2 Thessalonians 3:6",
+"2 Thessalonians 3:7",
+"2 Thessalonians 3:8",
+"2 Thessalonians 3:9",
+"2 Thessalonians 3:10",
+"2 Thessalonians 3:11",
+"2 Thessalonians 3:12",
+"2 Thessalonians 3:13",
+"2 Thessalonians 3:14",
+"2 Thessalonians 3:15",
+"2 Thessalonians 3:16",
+"2 Thessalonians 3:17",
+"2 Thessalonians 3:18"
+]
+}
+},
+"json/54.content.json": {
+"mimeType": "text/json",
+"size": 62501,
+"scope": {
+"1TI": [
+"1 Timothy 1:1",
+"1 Timothy 1:2",
+"1 Timothy 1:3",
+"1 Timothy 1:4",
+"1 Timothy 1:5",
+"1 Timothy 1:6",
+"1 Timothy 1:7",
+"1 Timothy 1:8",
+"1 Timothy 1:9",
+"1 Timothy 1:10",
+"1 Timothy 1:11",
+"1 Timothy 1:12",
+"1 Timothy 1:13",
+"1 Timothy 1:14",
+"1 Timothy 1:15",
+"1 Timothy 1:16",
+"1 Timothy 1:17",
+"1 Timothy 1:18",
+"1 Timothy 1:19",
+"1 Timothy 1:20",
+"1 Timothy 2:1",
+"1 Timothy 2:2",
+"1 Timothy 2:3",
+"1 Timothy 2:4",
+"1 Timothy 2:5",
+"1 Timothy 2:6",
+"1 Timothy 2:7",
+"1 Timothy 2:8",
+"1 Timothy 2:9",
+"1 Timothy 2:10",
+"1 Timothy 2:11",
+"1 Timothy 2:12",
+"1 Timothy 2:13",
+"1 Timothy 2:14",
+"1 Timothy 2:15",
+"1 Timothy 3:1",
+"1 Timothy 3:2",
+"1 Timothy 3:3",
+"1 Timothy 3:4",
+"1 Timothy 3:5",
+"1 Timothy 3:6",
+"1 Timothy 3:7",
+"1 Timothy 3:8",
+"1 Timothy 3:9",
+"1 Timothy 3:10",
+"1 Timothy 3:11",
+"1 Timothy 3:12",
+"1 Timothy 3:13",
+"1 Timothy 3:14",
+"1 Timothy 3:15",
+"1 Timothy 3:16",
+"1 Timothy 4:1",
+"1 Timothy 4:2",
+"1 Timothy 4:3",
+"1 Timothy 4:4",
+"1 Timothy 4:5",
+"1 Timothy 4:6",
+"1 Timothy 4:7",
+"1 Timothy 4:8",
+"1 Timothy 4:9",
+"1 Timothy 4:10",
+"1 Timothy 4:11",
+"1 Timothy 4:12",
+"1 Timothy 4:13",
+"1 Timothy 4:14",
+"1 Timothy 4:15",
+"1 Timothy 4:16",
+"1 Timothy 5:1",
+"1 Timothy 5:2",
+"1 Timothy 5:3",
+"1 Timothy 5:4",
+"1 Timothy 5:5",
+"1 Timothy 5:6",
+"1 Timothy 5:7",
+"1 Timothy 5:8",
+"1 Timothy 5:9",
+"1 Timothy 5:10",
+"1 Timothy 5:11",
+"1 Timothy 5:12",
+"1 Timothy 5:13",
+"1 Timothy 5:14",
+"1 Timothy 5:15",
+"1 Timothy 5:16",
+"1 Timothy 5:17",
+"1 Timothy 5:18",
+"1 Timothy 5:19",
+"1 Timothy 5:20",
+"1 Timothy 5:21",
+"1 Timothy 5:22",
+"1 Timothy 5:23",
+"1 Timothy 5:24",
+"1 Timothy 5:25",
+"1 Timothy 6:1",
+"1 Timothy 6:2",
+"1 Timothy 6:3",
+"1 Timothy 6:4",
+"1 Timothy 6:5",
+"1 Timothy 6:6",
+"1 Timothy 6:7",
+"1 Timothy 6:8",
+"1 Timothy 6:9",
+"1 Timothy 6:10",
+"1 Timothy 6:11",
+"1 Timothy 6:12",
+"1 Timothy 6:13",
+"1 Timothy 6:14",
+"1 Timothy 6:15",
+"1 Timothy 6:16",
+"1 Timothy 6:17",
+"1 Timothy 6:18",
+"1 Timothy 6:19",
+"1 Timothy 6:20",
+"1 Timothy 6:21"
+]
+}
+},
+"json/55.content.json": {
+"mimeType": "text/json",
+"size": 46193,
+"scope": {
+"2TI": [
+"2 Timothy 1:1",
+"2 Timothy 1:2",
+"2 Timothy 1:3",
+"2 Timothy 1:4",
+"2 Timothy 1:5",
+"2 Timothy 1:6",
+"2 Timothy 1:7",
+"2 Timothy 1:8",
+"2 Timothy 1:9",
+"2 Timothy 1:10",
+"2 Timothy 1:11",
+"2 Timothy 1:12",
+"2 Timothy 1:13",
+"2 Timothy 1:14",
+"2 Timothy 1:15",
+"2 Timothy 1:16",
+"2 Timothy 1:17",
+"2 Timothy 1:18",
+"2 Timothy 2:1",
+"2 Timothy 2:2",
+"2 Timothy 2:3",
+"2 Timothy 2:4",
+"2 Timothy 2:5",
+"2 Timothy 2:6",
+"2 Timothy 2:7",
+"2 Timothy 2:8",
+"2 Timothy 2:9",
+"2 Timothy 2:10",
+"2 Timothy 2:11",
+"2 Timothy 2:12",
+"2 Timothy 2:13",
+"2 Timothy 2:14",
+"2 Timothy 2:15",
+"2 Timothy 2:16",
+"2 Timothy 2:17",
+"2 Timothy 2:18",
+"2 Timothy 2:19",
+"2 Timothy 2:20",
+"2 Timothy 2:21",
+"2 Timothy 2:22",
+"2 Timothy 2:23",
+"2 Timothy 2:24",
+"2 Timothy 2:25",
+"2 Timothy 2:26",
+"2 Timothy 3:1",
+"2 Timothy 3:2",
+"2 Timothy 3:3",
+"2 Timothy 3:4",
+"2 Timothy 3:5",
+"2 Timothy 3:6",
+"2 Timothy 3:7",
+"2 Timothy 3:8",
+"2 Timothy 3:9",
+"2 Timothy 3:10",
+"2 Timothy 3:11",
+"2 Timothy 3:12",
+"2 Timothy 3:13",
+"2 Timothy 3:14",
+"2 Timothy 3:15",
+"2 Timothy 3:16",
+"2 Timothy 3:17",
+"2 Timothy 4:1",
+"2 Timothy 4:2",
+"2 Timothy 4:3",
+"2 Timothy 4:4",
+"2 Timothy 4:5",
+"2 Timothy 4:6",
+"2 Timothy 4:7",
+"2 Timothy 4:8",
+"2 Timothy 4:9",
+"2 Timothy 4:10",
+"2 Timothy 4:11",
+"2 Timothy 4:12",
+"2 Timothy 4:13",
+"2 Timothy 4:14",
+"2 Timothy 4:15",
+"2 Timothy 4:16",
+"2 Timothy 4:17",
+"2 Timothy 4:18",
+"2 Timothy 4:19",
+"2 Timothy 4:20",
+"2 Timothy 4:21",
+"2 Timothy 4:22"
+]
+}
+},
+"json/56.content.json": {
+"mimeType": "text/json",
+"size": 26480,
+"scope": {
+"TIT": [
+"Titus 1:1",
+"Titus 1:2",
+"Titus 1:3",
+"Titus 1:4",
+"Titus 1:5",
+"Titus 1:6",
+"Titus 1:7",
+"Titus 1:8",
+"Titus 1:9",
+"Titus 1:10",
+"Titus 1:11",
+"Titus 1:12",
+"Titus 1:13",
+"Titus 1:14",
+"Titus 1:15",
+"Titus 1:16",
+"Titus 2:1",
+"Titus 2:2",
+"Titus 2:3",
+"Titus 2:4",
+"Titus 2:5",
+"Titus 2:6",
+"Titus 2:7",
+"Titus 2:8",
+"Titus 2:9",
+"Titus 2:10",
+"Titus 2:11",
+"Titus 2:12",
+"Titus 2:13",
+"Titus 2:14",
+"Titus 2:15",
+"Titus 3:1",
+"Titus 3:2",
+"Titus 3:3",
+"Titus 3:4",
+"Titus 3:5",
+"Titus 3:6",
+"Titus 3:7",
+"Titus 3:8",
+"Titus 3:9",
+"Titus 3:10",
+"Titus 3:11",
+"Titus 3:12",
+"Titus 3:13",
+"Titus 3:14",
+"Titus 3:15"
+]
+}
+},
+"json/57.content.json": {
+"mimeType": "text/json",
+"size": 12742,
+"scope": {
+"PHM": [
+"Philemon 1:1",
+"Philemon 1:2",
+"Philemon 1:3",
+"Philemon 1:4",
+"Philemon 1:5",
+"Philemon 1:6",
+"Philemon 1:7",
+"Philemon 1:8",
+"Philemon 1:9",
+"Philemon 1:10",
+"Philemon 1:11",
+"Philemon 1:12",
+"Philemon 1:13",
+"Philemon 1:14",
+"Philemon 1:15",
+"Philemon 1:16",
+"Philemon 1:17",
+"Philemon 1:18",
+"Philemon 1:19",
+"Philemon 1:20",
+"Philemon 1:21",
+"Philemon 1:22",
+"Philemon 1:23",
+"Philemon 1:24",
+"Philemon 1:25"
+]
+}
+},
+"json/61.content.json": {
+"mimeType": "text/json",
+"size": 36733,
+"scope": {
+"2PE": [
+"2 Peter 1:1",
+"2 Peter 1:2",
+"2 Peter 1:3",
+"2 Peter 1:4",
+"2 Peter 1:5",
+"2 Peter 1:6",
+"2 Peter 1:7",
+"2 Peter 1:8",
+"2 Peter 1:9",
+"2 Peter 1:10",
+"2 Peter 1:11",
+"2 Peter 1:12",
+"2 Peter 1:13",
+"2 Peter 1:14",
+"2 Peter 1:15",
+"2 Peter 1:16",
+"2 Peter 1:17",
+"2 Peter 1:18",
+"2 Peter 1:19",
+"2 Peter 1:20",
+"2 Peter 1:21",
+"2 Peter 2:1",
+"2 Peter 2:2",
+"2 Peter 2:3",
+"2 Peter 2:4",
+"2 Peter 2:5",
+"2 Peter 2:6",
+"2 Peter 2:7",
+"2 Peter 2:8",
+"2 Peter 2:9",
+"2 Peter 2:10",
+"2 Peter 2:11",
+"2 Peter 2:12",
+"2 Peter 2:13",
+"2 Peter 2:14",
+"2 Peter 2:15",
+"2 Peter 2:16",
+"2 Peter 2:17",
+"2 Peter 2:18",
+"2 Peter 2:19",
+"2 Peter 2:20",
+"2 Peter 2:21",
+"2 Peter 2:22",
+"2 Peter 3:1",
+"2 Peter 3:2",
+"2 Peter 3:3",
+"2 Peter 3:4",
+"2 Peter 3:5",
+"2 Peter 3:6",
+"2 Peter 3:7",
+"2 Peter 3:8",
+"2 Peter 3:9",
+"2 Peter 3:10",
+"2 Peter 3:11",
+"2 Peter 3:12",
+"2 Peter 3:13",
+"2 Peter 3:14",
+"2 Peter 3:15",
+"2 Peter 3:16",
+"2 Peter 3:17",
+"2 Peter 3:18"
+]
+}
+},
+"json/64.content.json": {
+"mimeType": "text/json",
+"size": 8031,
+"scope": {
+"3JN": [
+"3 John 1:1",
+"3 John 1:2",
+"3 John 1:3",
+"3 John 1:4",
+"3 John 1:5",
+"3 John 1:6",
+"3 John 1:7",
+"3 John 1:8",
+"3 John 1:9",
+"3 John 1:10",
+"3 John 1:11",
+"3 John 1:12",
+"3 John 1:13",
+"3 John 1:14",
+"3 John 1:15"
+]
+}
+},
+"usx/51COLID_GST.usx": {
+"mimeType": "application/xml",
+"size": 34369,
+"scope": {
+"COL": []
+}
+},
+"usx/521THID_GST.usx": {
+"mimeType": "application/xml",
+"size": 30516,
+"scope": {
+"1TH": []
+}
+},
+"usx/532THID_GST.usx": {
+"mimeType": "application/xml",
+"size": 16152,
+"scope": {
+"2TH": []
+}
+},
+"usx/541TIID_GST.usx": {
+"mimeType": "application/xml",
+"size": 37489,
+"scope": {
+"1TI": []
+}
+},
+"usx/552TIID_GST.usx": {
+"mimeType": "application/xml",
+"size": 27877,
+"scope": {
+"2TI": []
+}
+},
+"usx/56TITID_GST.usx": {
+"mimeType": "application/xml",
+"size": 16671,
+"scope": {
+"TIT": []
+}
+},
+"usx/57PHMID_GST.usx": {
+"mimeType": "application/xml",
+"size": 7433,
+"scope": {
+"PHM": []
+}
+},
+"usx/612PEID_GST.usx": {
+"mimeType": "application/xml",
+"size": 23464,
+"scope": {
+"2PE": []
+}
+},
+"usx/643JNID_GST.usx": {
+"mimeType": "application/xml",
+"size": 5004,
+"scope": {
+"3JN": []
+}
+},
+"usfm/51COLID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 26411,
+"scope": {
+"COL": []
+}
+},
+"usfm/521THID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 22993,
+"scope": {
+"1TH": []
+}
+},
+"usfm/532THID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 12159,
+"scope": {
+"2TH": []
+}
+},
+"usfm/541TIID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 28001,
+"scope": {
+"1TI": []
+}
+},
+"usfm/552TIID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 20879,
+"scope": {
+"2TI": []
+}
+},
+"usfm/56TITID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 12678,
+"scope": {
+"TIT": []
+}
+},
+"usfm/57PHMID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 5210,
+"scope": {
+"PHM": []
+}
+},
+"usfm/612PEID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 18271,
+"scope": {
+"2PE": []
+}
+},
+"usfm/643JNID_GST.SFM": {
+"mimeType": "text/plain",
+"size": 3581,
+"scope": {
+"3JN": []
+}
+},
+"md/51.content.md": {
+"mimeType": "text/markdown",
+"size": 30034,
+"scope": {
+"COL": []
+}
+},
+"md/52.content.md": {
+"mimeType": "text/markdown",
+"size": 26829,
+"scope": {
+"1TH": []
+}
+},
+"md/53.content.md": {
+"mimeType": "text/markdown",
+"size": 14272,
+"scope": {
+"2TH": []
+}
+},
+"md/54.content.md": {
+"mimeType": "text/markdown",
+"size": 32150,
+"scope": {
+"1TI": []
+}
+},
+"md/55.content.md": {
+"mimeType": "text/markdown",
+"size": 24021,
+"scope": {
+"2TI": []
+}
+},
+"md/56.content.md": {
+"mimeType": "text/markdown",
+"size": 14408,
+"scope": {
+"TIT": []
+}
+},
+"md/57.content.md": {
+"mimeType": "text/markdown",
+"size": 6339,
+"scope": {
+"PHM": []
+}
+},
+"md/61.content.md": {
+"mimeType": "text/markdown",
+"size": 20585,
+"scope": {
+"2PE": []
+}
+},
+"md/64.content.md": {
+"mimeType": "text/markdown",
+"size": 4373,
+"scope": {
+"3JN": []
+}
+},
+"pdf/51.content.pdf": {
+"mimeType": "application/pdf",
+"size": 182535,
+"scope": {
+"COL": []
+}
+},
+"pdf/52.content.pdf": {
+"mimeType": "application/pdf",
+"size": 178127,
+"scope": {
+"1TH": []
+}
+},
+"pdf/53.content.pdf": {
+"mimeType": "application/pdf",
+"size": 148511,
+"scope": {
+"2TH": []
+}
+},
+"pdf/54.content.pdf": {
+"mimeType": "application/pdf",
+"size": 193604,
+"scope": {
+"1TI": []
+}
+},
+"pdf/55.content.pdf": {
+"mimeType": "application/pdf",
+"size": 173883,
+"scope": {
+"2TI": []
+}
+},
+"pdf/56.content.pdf": {
+"mimeType": "application/pdf",
+"size": 148757,
+"scope": {
+"TIT": []
+}
+},
+"pdf/57.content.pdf": {
+"mimeType": "application/pdf",
+"size": 128076,
+"scope": {
+"PHM": []
+}
+},
+"pdf/61.content.pdf": {
+"mimeType": "application/pdf",
+"size": 161279,
+"scope": {
+"2PE": []
+}
+},
+"pdf/64.content.pdf": {
+"mimeType": "application/pdf",
+"size": 121857,
+"scope": {
+"3JN": []
+}
+},
+"docx/51.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51011,
+"scope": {
+"COL": []
+}
+},
+"docx/52.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49590,
+"scope": {
+"1TH": []
+}
+},
+"docx/53.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46369,
+"scope": {
+"2TH": []
+}
+},
+"docx/54.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52017,
+"scope": {
+"1TI": []
+}
+},
+"docx/55.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49685,
+"scope": {
+"2TI": []
+}
+},
+"docx/56.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46664,
+"scope": {
+"TIT": []
+}
+},
+"docx/57.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44007,
+"scope": {
+"PHM": []
+}
+},
+"docx/61.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48506,
+"scope": {
+"2PE": []
+}
+},
+"docx/64.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43404,
+"scope": {
+"3JN": []
+}
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Gateway Simplified Text (Indonesian) © 2023 unfoldingWord",
+"mimetype": "text/html",
+"lang": "en"
+}
+]
+}
+},
+"article_metadata": {}
 }
